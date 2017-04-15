@@ -10,8 +10,13 @@ The use of a SPN is
 * to learn subparts of objects
 * to locate objects in an image without supervision
 
-
 Formulating Spatial transformers Three main differentiable blocks: 
 * Localisation network 
 * Grid generator
 * Sampler
+
+
+
+Spatial Transformer Networks
+https://arxiv.org/abs/1506.02025
+http://www.gitxiv.com/posts/5WTXTLuEA4Hd8W84G/spatial-transformer-networks
